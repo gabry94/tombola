@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "S9CiTEX7JE1b+euAXp11B8fpTRNMlKoC80kaT6MGA+mhQHUGT3EeprcAhg6r6JbMacICsas1CR3M+Tzunk0S/A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Gabriele Lombari\\source\\repos\\Tombola\\Tombola.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gabriele Lombari\\.nuget\\packages\\microsoft.netcore.app.runtime.linux-arm\\3.1.9\\microsoft.netcore.app.runtime.linux-arm.3.1.9.nupkg.sha512",
+    "C:\\Users\\Gabriele Lombari\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.linux-arm\\3.1.9\\microsoft.aspnetcore.app.runtime.linux-arm.3.1.9.nupkg.sha512",
+    "C:\\Users\\Gabriele Lombari\\.nuget\\packages\\microsoft.netcore.app.host.linux-arm\\3.1.9\\microsoft.netcore.app.host.linux-arm.3.1.9.nupkg.sha512"
+  ],
+  "logs": []
+}
